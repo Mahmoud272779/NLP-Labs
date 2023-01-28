@@ -1,0 +1,43 @@
+
+Student 1: Mahmoud El-Sayed Mahmoud
+Student 2: Hussien Mostafa Hussien
+
+Q1:
+
+number of words
+
+
+Q2:
+
+size of each vector that represents the word_embedding of each word
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes 
+
+
+Q4:
+
+yes , because ,of course, Cairo is the capital of Egypt so the cosine similarity between (Greece - Athenes + Cairo , Egypt ) is higher
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+it is obvious that each related group of word vectors as  (city , town , village) , (gas , oil , petroleum) , (sad , happy , joyful)
+ are plotted near each other because each group has similar word vectors  
+
